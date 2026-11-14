@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --background: #0b1020;
+    --secondary: #10172b;
+    --purple: #8b5cf6;
+    --blue: #4f46e5;
+    --white: #ffffff;
+    --text: #aab2c5;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: var(--background);
+    color: var(--white);
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.navbar {
+    max-width: 1200px;
+    margin: auto;
+    padding: 25px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.logo span {
+    color: var(--purple);
+}
+
+.hero {
+    max-width: 1200px;
+    margin: auto;
+    padding: 100px 30px;
+}
+
+footer {
+    text-align: center;
+    padding: 30px;
+    color: var(--text);
+}
+Style CSS colocate na farmidi mudle, ma sal Salvou no arquivo, pro GitHub do GitHub, certo? Os primeiros comits commits antes embaixo CSS commit do comit d comits conversar e jogare copiar.
