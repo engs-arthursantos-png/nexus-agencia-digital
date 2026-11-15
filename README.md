@@ -37,7 +37,7 @@ nexus-agencia-digital/
 ## Integrantes
 
 - Arthur — Desenvolvimento das páginas inicial, sobre e serviços.
-- Segundo integrante — Desenvolvimento das páginas projetos e contato, integração e documentação.
+- Guilherme Luiz — Desenvolvimento das páginas projetos e contato, integração e documentação.
 
 ## Como executar
 
@@ -48,5 +48,3 @@ nexus-agencia-digital/
 ## Licença
 
 Projeto acadêmico desenvolvido para fins educacionais.
-
-Substituam "Segundo integrante" pelo nome real do seu amigo antes de finalizar.
